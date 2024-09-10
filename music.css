@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  background-color: #1a203a;
+}
+.main {
+  background-color: #11172a;
+}
+p {
+  color: #545768;
+}
+img {
+  object-fit: cover;
+}
